@@ -25,6 +25,7 @@ int main()
 
 }
 
+// Função para converter Fer para Cel
 float Convert(float TempFer) {
     float TempCel;
 
